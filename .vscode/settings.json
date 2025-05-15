@@ -1,0 +1,20 @@
+
+
+{
+
+    "al.publisher": "Rasmus",
+
+    "CRS.ObjectNamePrefix": "RAA",
+
+    "CRS.RemovePrefixFromFilename": true,
+
+    "al.codeAnalyzers": [
+
+        "${CodeCop}",
+  
+        "${PerTenantExtensionCop}",
+        "${UICop}"
+
+    ]
+
+}
